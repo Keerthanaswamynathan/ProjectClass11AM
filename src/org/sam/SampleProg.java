@@ -27,5 +27,9 @@ public class SampleProg {
 	String deleviery = driver.findElement(By.xpath("//div[@class='a-spacing-base']//child::b")).getText();
 	System.out.println(deleviery);
 	}
+	public void sample1() {
+		
+
+	}
 	}
 
